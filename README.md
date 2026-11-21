@@ -1,8 +1,8 @@
 # Hangman Game Using Python
 ## Project Description:
-This is a simple word-guessing Hangman game developed using Python. The computer randomly selects a word from a predefined list, and the player must guess the word one letter at a time.
+This is a simple word-guessing Hangman game developed using Python. The computer randomly selects a word from a predefined list and the player must guess the word one letter at a time.
 The player gets 6 attempts to guess the correct word. For every wrong guess, one attempt is reduced. The game displays the correctly guessed letters and blank spaces for the remaining letters. 
-If the player guesses the complete word, a winning message is displayed. Otherwise, the game ends by revealing the correct word.
+If the player guesses the complete word a winning message is displayed. Otherwise the game ends by revealing the correct word.
 
 ## Technologies Used
 - Python
